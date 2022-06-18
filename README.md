@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there stranger 👋
+
+Here is a little bit about myself:
+
+- 🔭 I’m currently working on Quiller, the first social platform for NFTs
+- 🌱 I’m currently learning how to efficiently manage my time to stay fit and take care of my family. Also, React.js and React Native
+- 👯 I’m looking to collaborate on any interesting open source projects. There are so many out there, I welcome your suggestions.
+- 💬 Ask me about anything related to tech. I am a true technophile.
+- 🌎 Born in Macedonia 🇲🇰, living in US 🇺🇸 
+- 📫 How to reach me: <a href="mailto:martino@nikolovski.io" target="_blank">martino@nikolovski.io</a>
+- ⚡ Fun fact: I can fall asleep anywhere, anytime... even while walking
 
 <!--
 **nikolovski/nikolovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
