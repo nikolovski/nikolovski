@@ -1,10 +1,11 @@
-### Hi there stranger 👋
+### Hi there 👋
 
-Here is a little bit about myself:
+Here's a quick summary of who I am and what I do:
 
-- 🔭 I’m currently working on Quiller, the first social platform for NFTs
-- 🌱 I’m currently learning how to efficiently manage my time to stay fit and take care of my family. Also, React.js and React Native
-- 🤝 I’m looking to collaborate on any interesting open source projects. There are so many out there, I welcome your suggestions.
+- 💻 Senior software engineer specializing in backend but with considerable experience in full-stack development.
+- 💪🏼 Well-versed in designing, building, and maintaining complex systems by striving to stay up-to-date with the latest developments in the field and following best practices.
+- 🧠 Passionate about learning new languages, technologies, and frameworks
+- 🤝 Looking to collaborate on any interesting open source projects.
 - 💬 Ask me about anything related to tech. I am a true technophile.
 - 🌎 Born in Macedonia 🇲🇰, living in US 🇺🇸 
 - 📫 How to reach me: <a href="mailto:martino@nikolovski.io" target="_blank">martino@nikolovski.io</a>
